@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anisha 
-- 👀 I’m interested in Stellar Astrophysics and Data Science
-- 🌱 I’m currently learning ML, Numerical Techniques
+- 👋 Hi, I’m Anisha :)
+- 👀 I’m interested in Stellar Astrophysics and Data Science !! 
+- 🌱 I’m currently learning ML, Numerical Techniques ^_^
 - 💞️ I’m looking to collaborate on exciting Computational Astrophysics Projects ✨
 - 📫 You can reach out to me @ my Email: khatri.anisha20@gmail.com 
 - 😄 Pronouns: she/her
